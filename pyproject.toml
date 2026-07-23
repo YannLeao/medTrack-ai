@@ -21,7 +21,7 @@ dependencies = [
 
 [dependency-groups]
 inference = [
-  "easyocr==1.7.1",
+  "easyocr==1.7.2",
   "ultralytics==8.3.162",
 ]
 training = [
